@@ -1,0 +1,5 @@
+{
+  "name": "Google Sheets Interactive Tutorial",
+  "description": "An AI-powered, interactive tutorial for mastering Google Sheets. Explore topics from basic syntax to advanced data analysis and AppScript, with step-by-step guides generated on the fly.",
+  "requestFramePermissions": []
+}
